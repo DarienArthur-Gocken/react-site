@@ -25,7 +25,7 @@ function App() {
       <Section title="Other trees in Washington">
         <img src="/douglas_fir.jpg" alt="A Douglas Fir tree in the sunlight." />
         <Card title="Douglas Fir" description="Douglas fir has fast growth, soft blue-green needles, and reddish-brown bark. It thrives in many soils and can reach 200 feet or more in mature forests." />
-        <img src="/western_red_cedar.jpg" alt="A Western Red Cedar tree in a patch of other Western Red Cedars" />
+        <img src="/western_red_cedar.jpg" alt="A Western Red Cedar tree." />
         <Card title="Western Red Cedar" description="This tree has a wide base, and reddish bark. It prefers cool, moist summers, resists rot, and is used for shingles, siding, and traditional cultural carvings." />
         <img src="/sitka_spruce.jpg" alt="A Sitka Spruce standing on it's lonesome." />
         <Card title="Sitka Spruce" description="Sitka spruce is a coastal conifer with blue-green needles and slightly drooping branches, typically found within about 50 miles of the Pacific. Its strong, lightweight wood is prized for aircraft, musical instruments, and boatbuilding." />

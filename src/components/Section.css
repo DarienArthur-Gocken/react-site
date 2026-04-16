@@ -1,0 +1,17 @@
+.section {
+  padding: 2.5rem 0;
+  width: min(1120px, calc(100% - 2rem));
+  margin: 0 auto;
+}
+
+.section h2 {
+  margin: 0 0 1rem;
+  font-size: 1.8rem;
+  color: var(--accent-dark);
+}
+
+.section-content {
+  display: grid;
+  gap: 1.25rem;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+}

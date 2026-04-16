@@ -1,0 +1,24 @@
+:root {
+  color-scheme: light;
+  --bg: #f3f7f2;
+  --surface: #ffffff;
+  --surface-strong: #eff3ee;
+  --accent: #2f6c44;
+  --accent-dark: #1f422f;
+  --text: #233225;
+  --muted: #5a6a5c;
+  --border: #dce3db;
+  --shadow: 0 16px 40px rgba(24, 41, 31, 0.08);
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: Inter;
+  color: var(--text);
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
