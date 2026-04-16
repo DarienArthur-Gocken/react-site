@@ -17,7 +17,7 @@ function App() {
       </Section>
 
       <Section title="State Tree">
-        <img src="/western_hemlock.jpg" alt="A Western Hemlock tree standing proud with it's needled, evergreen form in the sunlight." />
+        <img src="../public/western_hemlock.jpg" alt="A Western Hemlock tree standing proud with it's needled, evergreen form in the sunlight." />
         <Card title="Western Hemlock" description="Washington's official tree is the largest hemlock species, reaching 100-150 feet tall in moist coastal, lowland, and mountain forests. It has flat needles with rounded tips, tiny cones, thin bark with red inner wood, and a narrow, graceful crown." />
         <Card title="Why is it the state tree?" description="Designated in 1947, the western hemlock represents Washington's evergreen forests and timber legacy. Its broad range across damp forests and recognizable form made it a natural state symbol." />
       </Section>
